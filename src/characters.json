@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Iron Man",
+    "image": "assets/images/iron_man.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 1,
+    "name": "Captain America",
+    "image": "assets/images/captain_america.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Hulk",
+    "image": "assets/images/hulk.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "Black Panther",
+    "image": "assets/images/black_panther.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Doctor Strange",
+    "image": "assets/images/dr_strange.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "Spiderman",
+    "image": "assets/images/spiderman.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Thor",
+    "image": "assets/images/thor.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Black Widow",
+    "image": "assets/images/black_widow.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "Loki",
+    "image": "assets/images/loki.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "Star Lord",
+    "image": "assets/images/star_lord.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Thanos",
+    "image": "assets/images/thanos.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Nick Fury",
+    "image": "assets/images/nick_fury.jpg",
+    "isClicked": false
+  }
+]
