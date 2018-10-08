@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Item from './components/Item';
-import Footer from './components/Footer';
 import characters from "./characters.json";
 import './App.css';
 
@@ -131,7 +130,7 @@ class App extends Component {
         <div className="content">
           {this.handleRenderCharacters()}
         </div>
-        <Footer />
+       
       </div>
     );
   }
